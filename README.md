@@ -26,7 +26,7 @@ This project features a browser-based text analysis tool that computes a variety
 #### Installation
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone <repository-url> && cd lab9-text-analyzer
+   git clone (https://github.com/sachindevangan/Text-Analyzer) && cd lab9-text-analyzer
    ```
 2. Create and configure `package.json`, with `app.js` as the entry point.
 3. Install dependencies:
